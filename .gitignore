@@ -1,0 +1,15 @@
+﻿.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+.flet/
+build/
+dist/
+node_modules/
+.env
+
+.idea/
+
