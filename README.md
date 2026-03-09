@@ -1,4 +1,23 @@
-# Memory Game (Fleting Architecture)
+# Memory Game Lingo
+
+Interactive memory game built with **Python + Flet**.
+
+## Features
+- Human vs AI player (RoboKob)
+- Multiple difficulty levels
+- Animal sounds and images
+- Memory AI that remembers cards
+
+## Tech stack
+- Python
+- Flet
+- MVC architecture
+
+## Run locally
+
+```bash
+pip install -r requirements.txt
+python main.py# Memory Game (Fleting Architecture)
 
 A "Human vs Robokob" memory game built with Flet, refactored into a click-driven Fleting MVC architecture.
 
